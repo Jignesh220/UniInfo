@@ -9,6 +9,5 @@ Screenshots :
 ![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/3.png)
 ![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/4.png)
 ![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/5.png)
-![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/v.mp4)
-
+![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/v.gif)
  
