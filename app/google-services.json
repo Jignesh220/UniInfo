@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "837779482832",
+    "project_id": "uniinfo-f6812",
+    "storage_bucket": "uniinfo-f6812.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:837779482832:android:edf8d06de04cd58c1216d5",
+        "android_client_info": {
+          "package_name": "com.android.uniinfo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "837779482832-3ai7ithmeqbk5ahubmr2itabedjiesa3.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.android.uniinfo",
+            "certificate_hash": "6e5275d3ffba9015fe45cc6ab896bc25f1a13405"
+          }
+        },
+        {
+          "client_id": "837779482832-a786bbtl6ocje2tucljitubhlgb3prac.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDa8y6XoxMBw8aZvKYLFsanxTowAExK7ng"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "837779482832-a786bbtl6ocje2tucljitubhlgb3prac.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
