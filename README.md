@@ -2,5 +2,13 @@ UniInfo application help to find University all over the world just enter countr
 
 Anyone can download Appplication(.apk) from [here](https://drive.google.com/file/d/1qhye_vQ786VZ_4vNmPFny4V4S5M0FoOu/view?usp=sharing)
 
+Screenshots :
+
+![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/1.png)
+![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/2.png)
+![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/3.png)
+![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/4.png)
+![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/5.png)
+![Alt text](https://github.com/Jignesh220/UniInfo/blob/main/screenshot/v.mp4)
 
  
